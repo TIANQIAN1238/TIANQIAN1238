@@ -1,6 +1,6 @@
-<div align="center">
+<img src="avatar.png" width="100%" />
 
-<img src="avatar.png" width="180" />
+<div align="center">
 
 # 👋 Hi, I'm Ethan Lane
 
@@ -16,30 +16,30 @@
 
 ---
 
-## 🌊 About Me
+## 🌊 关于我
 
 ```yaml
-location: Wuhan, Hubei, China
-organization: simen-ai
-university: Zhongnan University of Economics and Law
-focus:
-  - Full-Stack Development
-  - AI-Powered Developer Tools
-  - Electron Desktop Apps
-  - Animation & Motion Design
-interests:
-  - AI Workflows & Automation
-  - Developer Experience (DX)
-  - Open Source
+位置: 中国湖北武汉
+组织: simen-ai
+学校: 中南财经政法大学
+专注领域:
+  - 全栈开发
+  - AI 驱动的开发者工具
+  - Electron 桌面应用
+  - 动效与交互设计
+兴趣爱好:
+  - AI 工作流与自动化
+  - 开发者体验 (DX)
+  - 开源项目
 ```
 
 全栈工程师，专注于 AI 驱动的开发者工具。从前端动效到后端架构，从数据库设计到 Electron 桌面应用，什么都搞。热衷于打造流畅、高效、有灵魂的产品体验。
 
-## 🛠️ Tech Stack
+## 🛠️ 技术栈
 
 <div align="center">
 
-| Frontend | Backend | Desktop | AI & Tools |
+| 前端 | 后端 | 桌面端 | AI & 工具 |
 |:--------:|:-------:|:-------:|:----------:|
 | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white) | ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
 | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | ![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black) | ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) |
@@ -49,7 +49,7 @@ interests:
 
 </div>
 
-## 🚀 Projects
+## 🚀 项目
 
 <table>
 <tr>
@@ -94,7 +94,7 @@ Cursor 账号无感切换管理器，基于 Rust 构建，轻量高效。
 </tr>
 </table>
 
-### 🌟 Open Source Contributions
+### 🌟 开源贡献
 
 - **[community/community](https://github.com/community/community)** - GitHub 官方社区讨论，参与 GitHub Mobile、Codespaces、Sponsors 等产品反馈
 - **[CKylinMC/PasteMe](https://github.com/CKylinMC/PasteMe)** - AI 加持的剪贴板工具
@@ -103,19 +103,20 @@ Cursor 账号无感切换管理器，基于 Rust 构建，轻量高效。
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TIANQIAN1238&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIANQIAN1238&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+![TIANQIAN1238's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TIANQIAN1238&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TIANQIAN1238&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
-## 🎯 Current Focus
+## 🎯 当前关注
 
 - 🔭 在 **Simen AI** 构建下一代 AI 工作引擎，让 AI 理解你的需求并为你操作
 - ✨ 探索 **Agent** 与自动化工作流，打造真正的 AI 助手
 - 🎨 追求极致的交互体验与动效设计
 - 🤝 开放合作，欢迎交流创新的开发者工具想法
 
-## 📫 Contact
+## 📫 联系我
 
 <div align="center">
 
