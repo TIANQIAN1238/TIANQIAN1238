@@ -103,9 +103,29 @@ Cursor 账号无感切换管理器，基于 Rust 构建，轻量高效。
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TIANQIAN1238&theme=tokyonight&hide_border=true)
+<!-- GitHub Stats Card - 使用 github-readme-stats 官方 Vercel 实例 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TIANQIAN1238&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TIANQIAN1238&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TIANQIAN1238&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+</picture>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TIANQIAN1238&theme=tokyo-night&hide_border=true)
+<!-- GitHub Streak Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=TIANQIAN1238&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=TIANQIAN1238&theme=default&hide_border=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=TIANQIAN1238&theme=tokyonight&hide_border=true" />
+</picture>
+
+<!-- Top Languages -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TIANQIAN1238&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TIANQIAN1238&layout=compact&theme=default&hide_border=true&langs_count=10" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIANQIAN1238&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+</picture>
+
+<!-- Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TIANQIAN1238&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
