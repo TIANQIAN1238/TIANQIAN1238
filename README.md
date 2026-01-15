@@ -102,14 +102,12 @@ Cursor 账号无感切换管理器，基于 Rust 构建，轻量高效。
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats-iota-nine-54.vercel.app/api?username=TIANQIAN1238&show_icons=true&theme=vue&hide_border=true&count_private=true&include_all_commits=true&bg_color=ffffff" />
+  <img width="49%" height="195px" src="https://github-readme-stats-iota-nine-54.vercel.app/api/top-langs/?username=TIANQIAN1238&layout=compact&theme=vue&hide_border=true&langs_count=10&bg_color=ffffff" />
+</div>
 
-<a href="https://github.com/TIANQIAN1238">
-  <img width="49%" src="https://github-readme-stats-iota-nine-54.vercel.app/api?username=TIANQIAN1238&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats-iota-nine-54.vercel.app/api/top-langs/?username=TIANQIAN1238&layout=compact&theme=radical&hide_border=true&langs_count=10" />
-</a>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TIANQIAN1238&theme=redical&hide_border=true&area=true" />
-
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TIANQIAN1238&theme=vue&hide_border=true&area=true&bg_color=ffffff" />
 </div>
 
 ## 🎯 当前关注
