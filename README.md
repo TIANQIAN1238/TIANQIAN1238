@@ -103,9 +103,9 @@ Cursor 账号无感切换管理器，基于 Rust 构建，轻量高效。
 
 <div align="center">
 
-![TIANQIAN1238's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TIANQIAN1238&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=TIANQIAN1238&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TIANQIAN1238&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TIANQIAN1238&theme=tokyo-night&hide_border=true)
 
 </div>
 
