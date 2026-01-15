@@ -103,11 +103,12 @@ Cursor 账号无感切换管理器，基于 Rust 构建，轻量高效。
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-iota-nine-54.vercel.app/api?username=TIANQIAN1238&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<a href="https://github.com/TIANQIAN1238">
+  <img width="49%" src="https://github-readme-stats-iota-nine-54.vercel.app/api?username=TIANQIAN1238&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats-iota-nine-54.vercel.app/api/top-langs/?username=TIANQIAN1238&layout=compact&theme=radical&hide_border=true&langs_count=10" />
+</a>
 
-<img height="180" src="https://github-readme-stats-iota-nine-54.vercel.app/api/top-langs/?username=TIANQIAN1238&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TIANQIAN1238&theme=tokyo-night&hide_border=true&area=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TIANQIAN1238&theme=redical&hide_border=true&area=true" />
 
 </div>
 
