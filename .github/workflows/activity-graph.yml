@@ -1,0 +1,45 @@
+name: Update activity graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Build github-readme-activity-graph
+        run: |
+          git clone --depth 1 https://github.com/Ashutosh00710/github-readme-activity-graph.git /tmp/rag
+          cd /tmp/rag
+          npm install --no-audit --no-fund
+          npx tsc
+
+      - name: Render SVG
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PORT: 5100
+        run: |
+          node /tmp/rag/dist/main.js &
+          sleep 5
+          mkdir -p assets
+          curl -sf -o assets/activity-graph.svg \
+            "http://localhost:5100/graph?username=${{ github.repository_owner }}&theme=github-light&hide_border=true&area=true&color=2f80ed&line=2f80ed&point=1a73e8"
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/activity-graph.svg
+          git diff --cached --quiet || git commit -m "chore: update activity graph"
+          git push
