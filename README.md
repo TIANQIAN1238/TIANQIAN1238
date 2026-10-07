@@ -1,4 +1,4 @@
-<img src="avatar.png" width="100%" />
+<img src="https://cdn.jsdelivr.net/gh/TIANQIAN1238/TIANQIAN1238@main/avatar.jpg" width="100%" />
 
 <div align="center">
 
