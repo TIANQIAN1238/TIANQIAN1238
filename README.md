@@ -1,4 +1,4 @@
-<img src="avatar.png" width="100%" />
+<img src="https://cdn.jsdelivr.net/gh/TIANQIAN1238/TIANQIAN1238@main/avatar.png" width="100%" />
 
 <div align="center">
 
@@ -191,7 +191,7 @@ Cursor 账号无感切换管理器，基于 Rust 构建，轻量高效。
 </div>
 
 <div align="center">
-  <img width="100%" src="./assets/activity-graph.svg" />
+  <img width="100%" src="https://cdn.jsdelivr.net/gh/TIANQIAN1238/TIANQIAN1238@main/assets/activity-graph.svg" />
 </div>
 
 ## 🎯 当前关注

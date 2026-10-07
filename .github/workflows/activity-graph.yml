@@ -43,3 +43,6 @@ jobs:
           git add assets/activity-graph.svg
           git diff --cached --quiet || git commit -m "chore: update activity graph"
           git push
+
+      - name: Purge jsDelivr cache
+        run: curl -sf "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/assets/activity-graph.svg" || true
